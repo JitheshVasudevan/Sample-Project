@@ -1,2 +1,2 @@
 # project
-To use for a project in ServiceNow
+Sample project to know it better
